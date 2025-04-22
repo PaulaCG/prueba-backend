@@ -1,6 +1,6 @@
-# Vehículos Backend - Prueba Técnica
+# Prueba Técnica
 
-Este es un sistema backend desarrollado en Java con Spring Boot para la administración de vehículos, automóviles, camiones y sus mantenciones.
+Este es un sistema backend desarrollado en Java con Spring Boot para la administración de vehículos, automóviles, camiones y sus mantenciones. Parte 1.
 
 ---
 
@@ -84,7 +84,7 @@ src/
 | PUT    | `/automoviles/{id}`    | Editar                        |
 | DELETE | `/automoviles/{id}`    | Eliminar                      |
 
-### 🚚 Camiones
+### Camiones
 
 | Método | URL                  | Acción                         |
 |--------|----------------------|--------------------------------|
@@ -94,7 +94,7 @@ src/
 | PUT    | `/camiones/{id}`    | Editar                         |
 | DELETE | `/camiones/{id}`    | Eliminar                       |
 
-### 🛠️ Mantenciones
+### Mantenciones
 
 | Método | URL                                | Acción                             |
 |--------|-------------------------------------|------------------------------------|
@@ -138,7 +138,7 @@ Con código de estado HTTP `404 Not Found`.
 
 ---
 
-## ✨ Autor
+## Autor
 
 **Paula Cabrera**  
 Prueba técnica para entrevista de desarrollo backend.
