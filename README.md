@@ -1,5 +1,7 @@
 # Prueba Técnica
 
+## Parte 1
+
 Este es un sistema backend desarrollado en Java con Spring Boot para la administración de vehículos, automóviles, camiones y sus mantenciones. Parte 1.
 
 ---
@@ -137,6 +139,11 @@ Con código de estado HTTP `404 Not Found`.
    ```
 
 ---
+
+## Parte 2
+
+## Consultas MySQL: 
+### Las consultas SQL requeridas en la Parte 2 de la prueba técnica están en: sql/consultas.sql
 
 ## Autor
 
